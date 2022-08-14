@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align='center'><img width=60% src="https://user-images.githubusercontent.com/101464018/184527063-f7f4057e-293e-4234-b24d-63c21a258480.gif" alt='Sumit Gangwar'/></p>
+  
+  
+- 🌱 I’m currently learning python
+- 💬 Ask me about Anything
+- 😄 Pronouns: He/him/his
 
-<!--
-**Sumit-Gangwar/Sumit-Gangwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
