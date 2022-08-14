@@ -1,4 +1,4 @@
-<p align='center'><img width=60% src="https://user-images.githubusercontent.com/101464018/184535386-b5dc7773-32a4-4a40-8da1-8f9392590c15.gif" alt='Sumit Gangwar'/></p> 
+<p align='center'><img src="https://user-images.githubusercontent.com/101464018/184535386-b5dc7773-32a4-4a40-8da1-8f9392590c15.gif" alt='Sumit Gangwar'/></p> 
   <h3 align='center'>An enthusiastic & curious developer love to work with people as a team to learn and build amazing things.</h3>
 
 
