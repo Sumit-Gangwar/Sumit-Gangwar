@@ -1,10 +1,10 @@
 <p align='center'><img src="https://user-images.githubusercontent.com/101464018/184535386-b5dc7773-32a4-4a40-8da1-8f9392590c15.gif" alt='Sumit Gangwar'/></p> 
-  <h3 align='center'>An enthusiastic & curious developer love to work with people as a team to learn and build amazing things.</h3>
+  <h3 align='center'>An enthusiastic & curious developer who loves to work with people as a team to learn and build amazing things.</h3>
 
 
 
-- 🌱 I’m currently learning full-stack development at masai school     
-- 💬 Ask me about Anything
+- 🌱 I’m currently learning Springboot, Hibernate     
+- 💬 Ask me about Java, MySQL
 - 😄 Pronouns: He/him/his
 
 
@@ -49,6 +49,7 @@
   <a href="https://www.github.com/Sumit-Gangwar" target="_blank"><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
   <a href="mailto:officialsumitgangwar@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
     <a href="https://www.hackerrank.com/lovelysumit1281" target="_blank"><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
+  <a href="https://sumitgangwar.netlify.app/" target="_blank"><img src='https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
   
  </div>
 
