@@ -34,7 +34,7 @@
 <div align='center'>
 <img src='https://github-profile-trophy.vercel.app/?username=Sumit-Gangwar&title=Followers,Stars,Commit,Repositories,PullRequest'/>
 </div>
-<section>
+<section align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=Sumit-Gangwar&theme=blue-green'/>
 <img src='http://github-readme-streak-stats.herokuapp.com?user=Sumit-Gangwar&theme=dark&background=000000'/>
 </section>
