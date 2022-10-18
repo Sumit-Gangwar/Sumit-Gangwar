@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Spring Security    
-- 💬 Ask me about Java, Spring, MySQL
+- 💬 Ask me about Java, Spring, JavaScript
 - 😄 Pronouns: He/him/his
 
 
