@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning Spring Security    
-- 💬 Ask me about Java, Spring, JavaScript
+- 🌱 I’m currently learning python   
+- 💬 Ask me about Java, Spring, JavaScript,SQL
 - 😄 Pronouns: He/him/his
 
 
