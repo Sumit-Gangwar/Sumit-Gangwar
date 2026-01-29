@@ -29,7 +29,12 @@
 <img src='https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white'/>
 <img src='https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white'/>
 </div>
- 
+
+<h2>Learning</h2>
+<section>
+  <a href="https://app.daily.dev/sumitgangwar"><img src="https://api.daily.dev/devcards/v2/zZmGA1ZmFjVbphrXg7nUM.png?type=default&r=982" width="356" alt="Sumit Gangwar's Dev Card"/></a>
+</section>
+
 <h2>GitHub Stats</h2>
 <div>
 <img src='https://github-profile-trophy.vercel.app/?username=Sumit-Gangwar&title=Followers,Stars,Commit,Repositories,PullRequest'/>
@@ -39,9 +44,6 @@
 <img src='http://github-readme-streak-stats.herokuapp.com?user=Sumit-Gangwar&theme=dark&background=000000'/>
 </section>
 
-  
-  
-  
 <h2>Connect with me</h2>
   
 <div align='center'>
