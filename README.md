@@ -35,6 +35,10 @@
   <a href="https://app.daily.dev/sumitgangwar"><img src="https://api.daily.dev/devcards/v2/zZmGA1ZmFjVbphrXg7nUM.png?type=default&r=982" width="356" alt="Sumit Gangwar's Dev Card"/></a>
 </section>
 
+<h2>LeedCode</h2>
+
+![Sumit's LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Sumit_Gangwar?theme=neutral&bgColor=hex_val)
+
 <h2>GitHub Stats</h2>
 <div>
 <img src='https://github-profile-trophy.vercel.app/?username=Sumit-Gangwar&title=Followers,Stars,Commit,Repositories,PullRequest'/>
@@ -49,9 +53,7 @@
 <div align='center'>
   <a href="https://www.linkedin.com/in/sumit-gangwar" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href="mailto:officialsumitgangwar@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-    <a href="https://www.hackerrank.com/lovelysumit1281" target="_blank"><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/></a>
-  <a href="https://sumitgangwar.netlify.app/" target="_blank"><img src='https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white'/></a>
-  
+  <a href="https://leetcode.com/u/Sumit_Gangwar/" target="_blank"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black'/></a>  
  </div>
 
 
